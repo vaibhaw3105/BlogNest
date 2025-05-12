@@ -1,12 +1,16 @@
-# React + Vite
+# BlogNest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple blog creating and editing React app built with Vite.
 
-Currently, two official plugins are available:
+## About the Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Uses [React](https://reactjs.org/) with [Vite](https://vitejs.dev/) for fast development.
+- Supports Hot Module Replacement (HMR).
+- Includes ESLint rules for clean code.
+- Setup inspired by Vite’s React templates, including options for Babel or SWC.
 
-## Expanding the ESLint configuration
+## Future Enhancements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- TypeScript support
+- Markdown support
+- Backend integration (Node.js or Firebase, etc.)
